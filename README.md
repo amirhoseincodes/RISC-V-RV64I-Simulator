@@ -90,17 +90,15 @@ riscv_simulator/
 
 ✅ لینک‌های مستقیم به ماژول‌ها:
 
-- [ISA Parser](https://chatgpt.com/c/isa/parser.py)
+- [ISA Parser](https://github.com/amirhoseincodes/RISC-V-RV64I-Simulator/blob/main/isa/parser.py)
     
-- [Instruction Decoder](https://chatgpt.com/c/isa/decoder.py)
+- [Instruction Decoder](https://github.com/amirhoseincodes/RISC-V-RV64I-Simulator/blob/main/isa/decoder.py)
+        
+- [CPU Components](https://github.com/amirhoseincodes/RISC-V-RV64I-Simulator/tree/main/cpu)
     
-- [Instruction Classes](https://chatgpt.com/c/isa/instruction.py)
+- [Pipeline Stages](https://github.com/amirhoseincodes/RISC-V-RV64I-Simulator/tree/main/pipeline)
     
-- [CPU Components](https://chatgpt.com/c/cpu/)
-    
-- [Pipeline Stages](https://chatgpt.com/c/pipeline/)
-    
-- [GUI](https://chatgpt.com/c/gui/)
+- [GUI](https://github.com/amirhoseincodes/RISC-V-RV64I-Simulator/tree/main/gui)
     
 
 ---
@@ -131,11 +129,10 @@ python run run_gui.py
 
 ## 🏗️ فازهای پروژه
 
-| فاز   | شرح                                                                                                      | لینک‌ها                                                                                |
-| ----- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **۰** | انتخاب ISA واقعی                                                                                         | [RISC-V RV64I](https://chatgpt.com/c/isa/)                                             |
-| **۱** | شبیه‌سازی مرحله‌ای بدون پایپ‌لاین: رجیستر فایل، حافظه، ALU، دیکدر، اجرای گام‌به‌گام                      | [cpu/](https://chatgpt.com/c/cpu/), [isa/](https://chatgpt.com/c/isa/)                 |
-| **۲** | اجرای کامل برنامه اسمبلی + حالت دیباگ: بارگذاری از فایل، پشتیبانی از لیبل‌ها، نمایش وضعیت رجیستر و حافظه | [main.py](https://chatgpt.com/c/main.py), [examples/](https://chatgpt.com/c/examples/) |
-| **۳** | پیاده‌سازی پایپ‌لاین ۵ مرحله‌ای: IF, ID, EX, MEM, WB، forwarding، stalling، branch hazard                | [pipeline/](https://chatgpt.com/c/pipeline/)                                           |
-| **۴** | توسعه معماری: کش ساده، وقفه‌ها، pseudo-instruction‌ها                                                    | [cpu/](https://chatgpt.com/c/cpu/), [pipeline/](https://chatgpt.com/c/pipeline/)       |
-| **۵** | رابط گرافیکی تعاملی: نمایش CPU و پایپ‌لاین، اجرای مرحله‌ای و کامل برنامه                                 | [gui/](https://chatgpt.com/c/gui/)                                                     |
+| فاز   | شرح                                                                                                                                                                       | -------------------------------------------------------------------------------------- |
+| **۰** | انتخاب ISA واقعی                                                                   |         
+| **۱** | شبیه‌سازی مرحله‌ای بدون پایپ‌لاین: رجیستر فایل، حافظه، ALU، دیکدر، اجرای گام‌به‌گام                      |                 |
+| **۲** | اجرای کامل برنامه اسمبلی + حالت دیباگ: بارگذاری از فایل، پشتیبانی از لیبل‌ها، نمایش وضعیت رجیستر و حافظه |  |
+| **۳** | پیاده‌سازی پایپ‌لاین ۵ مرحله‌ای: IF, ID, EX, MEM, WB، forwarding، stalling، branch hazard                |                                           |
+| **۴** | توسعه معماری: کش ساده، وقفه‌ها، pseudo-instruction‌ها                                                    
+| **۵** | رابط گرافیکی تعاملی: نمایش CPU و پایپ‌لاین، اجرای مرحله‌ای و کامل برنامه                           
