@@ -109,8 +109,8 @@ riscv_simulator/
     
 
 ```bash
-git clone <repository-url>
-cd riscv_simulator
+git clone https://github.com/amirhoseincodes/RISC-V-RV64I-Simulator.git
+cd RISC-V-RV64I-Simulator
 ```
 
 2. اجرای یک برنامه نمونه:
