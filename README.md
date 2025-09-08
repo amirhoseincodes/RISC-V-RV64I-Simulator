@@ -4,13 +4,14 @@
 
 **شبیه‌ساز کامل معماری پردازنده ۶۴ بیتی RISC-V با قابلیت اجرای گام‌به‌گام، پایپ‌لاین و GUI تعاملی**
 
----
+
 ## 👥 اعضای تیم 
 
 <a href="https://github.com/amirhoseincodes">
   <img src="https://avatars.githubusercontent.com/amirhoseincodes" width="60px" style="border-radius:50%;" alt="@amirhoseincodes"/>
 </a>
 
+---
 
 ## 📌 معرفی پروژه
 
