@@ -123,3 +123,14 @@ python run run_gui.py
 | **۴** | توسعه معماری: کش ساده، وقفه‌ها، pseudo-instruction‌ها                                                                 |
 | **۵** | رابط گرافیکی تعاملی: نمایش CPU و پایپ‌لاین، اجرای مرحله‌ای و کامل برنامه                                            |
                 
+
+
+## 👥 اعضای تیم 
+
+<a href="https://github.com/amirhoseincodes">
+  <img src="https://avatars.githubusercontent.com/amirhoseincodes" width="60px" style="border-radius:50%;" alt="@amirhoseincodes"/>
+</a>
+
+<a href="https://github.com/mahdyT">
+  <img src="https://avatars.githubusercontent.com/mahdyT" width="60px" style="border-radius:50%;" alt="@mahdyT"/>
+</a>
