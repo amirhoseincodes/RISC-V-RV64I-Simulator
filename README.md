@@ -11,6 +11,10 @@
   <img src="https://avatars.githubusercontent.com/amirhoseincodes" width="60px" style="border-radius:50%;" alt="@amirhoseincodes"/>
 </a>
 
+<a href="https://github.com/mahdyT">
+  <img src="https://avatars.githubusercontent.com/mahdyT" width="60px" style="border-radius:50%;" alt="@mahdyT"/>
+</a>
+
 ---
 
 ## 📌 معرفی پروژه
@@ -134,6 +138,3 @@ python run run_gui.py
 
 
 
-<a href="https://github.com/mahdyT">
-  <img src="https://avatars.githubusercontent.com/mahdyT" width="60px" style="border-radius:50%;" alt="@mahdyT"/>
-</a>
