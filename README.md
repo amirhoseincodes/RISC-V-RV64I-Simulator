@@ -1,10 +1,9 @@
-# RISC-V RV64I Simulator 🖥️
+# RISC-V RV64I Simulator 🖥️  -  **شبیه‌ساز کامل معماری پردازنده ۶۴ بیتی RISC-V با قابلیت اجرای گام‌به‌گام، پایپ‌لاین و GUI تعاملی**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Status](https://img.shields.io/badge/Status-Development-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
 
-**شبیه‌ساز کامل معماری پردازنده ۶۴ بیتی RISC-V با قابلیت اجرای گام‌به‌گام، پایپ‌لاین و GUI تعاملی**
 
----
+
 
 ## 👥 اعضای تیم 
 
