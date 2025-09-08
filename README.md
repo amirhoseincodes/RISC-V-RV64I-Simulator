@@ -5,6 +5,12 @@
 **شبیه‌ساز کامل معماری پردازنده ۶۴ بیتی RISC-V با قابلیت اجرای گام‌به‌گام، پایپ‌لاین و GUI تعاملی**
 
 ---
+## 👥 اعضای تیم 
+
+<a href="https://github.com/amirhoseincodes">
+  <img src="https://avatars.githubusercontent.com/amirhoseincodes" width="60px" style="border-radius:50%;" alt="@amirhoseincodes"/>
+</a>
+
 
 ## 📌 معرفی پروژه
 
@@ -125,11 +131,7 @@ python run run_gui.py
                 
 
 
-## 👥 اعضای تیم 
 
-<a href="https://github.com/amirhoseincodes">
-  <img src="https://avatars.githubusercontent.com/amirhoseincodes" width="60px" style="border-radius:50%;" alt="@amirhoseincodes"/>
-</a>
 
 <a href="https://github.com/mahdyT">
   <img src="https://avatars.githubusercontent.com/mahdyT" width="60px" style="border-radius:50%;" alt="@mahdyT"/>
